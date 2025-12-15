@@ -1,3 +1,13 @@
+QChem200 Solution (Team 4)
+## Team Members
+- Arya Patil (Team Lead)
+- Anushri Maheshwari
+- Juzer Lakadwala
+
+---
+  
+  
+  
   Hello and welcome to the great unnecesarily long explanation by Team 4 ( yay i get to use the team name instead of just ruining my own reputation :P )
 
   The first step of the code was to check if two words were superimposable, meaning that could they be imposed into a single word. This was done by checking the two words and seeing if any two "non-I" gates were present at the same index. If this was true, the gates would be non-superimposable, and in every other case they would be superimposable.
