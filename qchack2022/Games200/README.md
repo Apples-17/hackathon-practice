@@ -39,13 +39,6 @@ This allows Alice and Bob to implement the optimal CHSH strategy.
 ## Optimization Details
 - Optimizer: Gradient Descent  
 - Step size: `0.1`  
-- Steps: `50`  
+- Steps: `100`  
 
 This setup is stable, fast, and consistently meets the required tolerance.
-
----
-
-## How to Run
-Install PennyLane if needed:
-```bash
-pip install pennylane
