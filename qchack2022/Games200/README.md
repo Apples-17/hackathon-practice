@@ -1,5 +1,12 @@
 # CHSH Game – Quantum Advantage using PennyLane
 
+## Team Members
+- Shubham Sharma (Team Lead)
+- Vibha Patel
+- Faaz Mohammed
+
+---
+
 ## About
 This project implements the **CHSH game**, a classic example showing how quantum mechanics can outperform classical strategies.
 
