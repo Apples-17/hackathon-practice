@@ -22,7 +22,7 @@ def givens_rotations(a, b, c, d):
 
 
 if __name__ == "__main__":
-    # DO NOT MODIFY anything in this code block
+    
     inputs = sys.stdin.read().split(",")
     theta_1, theta_2, theta_3 = givens_rotations(
         float(inputs[0]), float(inputs[1]), float(inputs[2]), float(inputs[3])
