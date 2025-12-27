@@ -36,7 +36,7 @@ These angles uniquely parametrize the sequence of Givens rotations needed to gen
 
 ## File Description
 - `qchem300.py`  
-  Implements the `givens_rotations` function and follows the exact input/output format required by the QHack evaluation system.
+  Implements the `givens_rotations` function.
 
 ---
 
@@ -47,5 +47,7 @@ givens_rotations(a, b, c, d)
 ---
 ## BY:
 -Anushri Maheshwari
+
 -Faaz Mohammed
+
 -Vibha Patel
